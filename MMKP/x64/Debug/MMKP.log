@@ -1,0 +1,4 @@
+﻿  MMKP.cpp
+C:\Users\LENOVO\Desktop\MMKP\MMKP.cpp(398,39): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\LENOVO\Desktop\MMKP\MMKP.cpp(582,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  MMKP.vcxproj -> C:\Users\LENOVO\Desktop\MMKP\x64\Debug\MMKP.exe
